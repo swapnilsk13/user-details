@@ -18,4 +18,4 @@ MyReactApp is a React-based web application that fetches user details from the [
 ## Installation
 1. Clone the GitHub repository to your local machine:
    ```bash
-   git clone git@github.com:swapnilsk13/user-details.git
+   git clone https://github.com/swapnilsk13/user-details.git
